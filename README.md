@@ -1,7 +1,9 @@
-- Hi, I’m Heloisa Rodrigues
-- University student - UFC - Computer network
+👋 Olá! Eu sou a Heloisa Rodrigues.
 
-<!---
-hisarod/hisarod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Atualmente cursando Engenharia de Telecomunicações, estou sempre em busca de novos conhecimentos e desafios no mundo da tecnologia.
+
+📡 Tenho interesse em redes de comunicação, sistemas de telecomunicações e desenvolvimento de projetos que conectam o mundo.
+
+🔧 Aqui no GitHub, você encontrará alguns dos meus projetos e experimentos relacionados aos meus estudos e interesses.
+
+🌐 Vamos nos conectar e colaborar em projetos interessantes!
