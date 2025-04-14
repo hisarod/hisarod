@@ -1,6 +1,6 @@
 👋 Olá! Eu sou a Heloisa Rodrigues.
 
-🎓 Atualmente cursando Engenharia de Telecomunicações, estou sempre em busca de novos conhecimentos e desafios no mundo da tecnologia.
+🎓 Atualmente sou técnica em Telecomunicações e estou cursando Ciências de Dados e estou sempre em busca de novos conhecimentos e desafios no mundo da tecnologia.
 
 📡 Tenho interesse em redes de comunicação, sistemas de telecomunicações e desenvolvimento de projetos que conectam o mundo.
 
