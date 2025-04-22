@@ -1,9 +1,9 @@
-👋 Olá! Eu sou a Heloisa Rodrigues.
+👋 Olá! Eu sou Heloísa Rodrigues.
 
-🎓 Atualmente sou técnica em Telecomunicações e estou cursando Ciências de Dados e estou sempre em busca de novos conhecimentos e desafios no mundo da tecnologia.
+🎓 Formação: Técnica em Telecomunicações e atualmente cursando Ciências de Dados. Estou sempre em busca de novos desafios e oportunidades para expandir meu conhecimento no universo da tecnologia.
 
-📡 Tenho interesse em redes de comunicação, sistemas de telecomunicações e desenvolvimento de projetos que conectam o mundo.
+📡 Áreas de Interesse: Redes de Comunicação, Programação, Análise de Dados e Desenvolvimento de Projetos Tecnológicos que conectam o mundo.
 
-🔧 Aqui no GitHub, você encontrará alguns dos meus projetos e experimentos relacionados aos meus estudos e interesses.
+🔧 O que você encontra por aqui: Projetos e experimentos relacionados aos meus estudos, focando em Python, Ciência de Dados, Telecomunicações e outras áreas da tecnologia.
 
-🌐 Vamos nos conectar e colaborar em projetos interessantes!
+🌐 Vamos nos conectar! Se você tem projetos interessantes ou quer discutir ideias e inovações, estou sempre aberta para novas colaborações.
