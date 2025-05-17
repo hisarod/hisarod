@@ -89,7 +89,7 @@ Me chamo Heloisa Fernandes Rodrigues, tenho 19 anos e sou natural do Ceará. Sou
     align="left" 
     alt="Pandas" 
     title="Pandas"
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" 
 />
@@ -109,7 +109,7 @@ Me chamo Heloisa Fernandes Rodrigues, tenho 19 anos e sou natural do Ceará. Sou
     align="left" 
     alt="NumPy" 
     title="NumPy"
-    width="30px" 
+    width="80px" 
     style="padding-right: 10px;" 
     src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" 
 />
