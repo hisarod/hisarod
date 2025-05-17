@@ -89,7 +89,7 @@ Me chamo Heloisa Fernandes Rodrigues, tenho 19 anos e sou natural do Ceará. Sou
     align="left" 
     alt="Pandas" 
     title="Pandas"
-    width="50px" 
+    width="80px" 
     style="padding-right: 10px;" 
     src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" 
 />
