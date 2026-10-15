@@ -4,7 +4,7 @@
 **`Desenvolvedora FullStack`**
 **`Suporte Técnico`**
 
-Me chamo Heloisa Fernandes Rodrigues, tenho 19 anos e sou natural do Ceará. Sou técnica em Telecomunicações e estou cursando Ciência de Dados. Estou sempre em busca de novos desafios e oportunidades para expandir meu conhecimento no universo da tecnologia.
+Me chamo Heloisa Fernandes Rodrigues, tenho 20anos e sou natural do Ceará. Sou técnica em Telecomunicações e estou cursando Ciência da Computação. Estou sempre em busca de novos desafios e oportunidades para expandir meu conhecimento no universo da tecnologia.
 
 <p align="left">
    <a href="https://github.com/hisarod?tab=repositories&sort=stargazers">
